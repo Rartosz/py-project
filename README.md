@@ -1,19 +1,17 @@
 # Python Snake Game (Console vesion) - Python Project
-Simple terminal snake game written on python.
+Simple terminal snake game coded in python.
 
 ## Install curses before starting: pip install windows-curses
-* pip install windows-curses
 
-```python Install curses before starting: pip install windows-curses
+```python
 pip install windows-curses
 ```
 
 ## Run
 
-python main.py
-```python Run
+```python
 python main.py
 ```
 
-## Control
-Up Arrow, Down Arrow, Left Arrow, Right Arrow.
+## Controls
+Arrows
